@@ -11,4 +11,4 @@ Releaseから `processflow-for-kintone-2.0.0-free-bundle.zip` を取得して展
 
 ## ダウンロード
 
-[最新の配布ファイル](https://github.com/youtotto/kintone-processflow-plugin/releases/latest)から、上記のbundle ZIPを取得してください。ソースコード用の自動生成ZIPはインストール用ではありません。
+[最新の配布ファイル](https://github.com/youtotto/processflow/releases/latest)から、上記のbundle ZIPを取得してください。ソースコード用の自動生成ZIPはインストール用ではありません。
